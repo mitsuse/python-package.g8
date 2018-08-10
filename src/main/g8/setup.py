@@ -12,7 +12,7 @@ setup(
     author='$author$',
     author_email='$author_email$',
     install_requires=[
-        'typing-extensions>=3.6.2<=4.0.0',
+        'typing-extensions>=3.6.2,<=4.0.0',
     ],
     license='$license$',
     classifiers=[
